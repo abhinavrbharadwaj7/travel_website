@@ -104,7 +104,7 @@ body {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: var(--secondary-color);
+   background-image: radial-gradient(circle , #ffffff 20%, #93ABFD, #e087ca);    margin: 0;
 }
 
 .header {
