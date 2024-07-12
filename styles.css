@@ -33,7 +33,7 @@
 .section__title {
   font-size: 2.5rem;
   font-weight: 700;
-  color: var(--text-dark);
+  color: black;
 }
 
 .section__nav {
@@ -396,11 +396,11 @@ nav {
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
   font-weight: 600;
-  color: var(--text-dark);
+  color: black;
 }
 
 .seller__details p {
-  color: var(--text-light);
+  color: black;
 }
 
 .seller__card:hover .seller__image__content {
@@ -509,7 +509,7 @@ nav {
 .guide__details h4 {
   font-size: 1.2rem;
   font-weight: 600;
-  color: var(--text-dark);
+  color: black;
 }
 
 .guide__card .guide__details p {
@@ -519,7 +519,7 @@ nav {
 }
 
 .guide__card p {
-  color: var(--text-light);
+  color: rgb(67, 63, 77);
 }
 
 .guide__card:hover {
@@ -562,7 +562,7 @@ nav {
 
 .client__card p {
   margin-bottom: 1rem;
-  color: var(--text-light);
+  color:black;
 }
 
 .client__card__footer {
@@ -641,7 +641,7 @@ nav {
 
 .footer__col p {
   max-width: 300px;
-  color: var(--text-light);
+  color: rgb(89, 63, 95);
 }
 
 .footer__col h4 {
@@ -656,7 +656,7 @@ nav {
   margin-bottom: 1rem;
   font-size: 1rem;
   font-weight: 500;
-  color: var(--text-light);
+  color: rgba(255, 255, 255, 0.692);
   transition: 0.3s;
 }
 
